@@ -20,5 +20,7 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
 
+## Sobre o que penso para minha carreira.
+
 "Apaixonado pelo mundo da tecnologia e seu poder transformador na vida das pessoas!
 Atualmente estou mergulhando de cabeça no desenvolvimento Web Front-End, e tenho como objetivo principal, me tornar um desenvolvedor Full Cycle. Capaz de entregar soluções completas e de alto impacto, interfaces inovadoras e experiências web incríveis, dominando todo ciclo de vida de uma aplicação."
