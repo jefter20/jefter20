@@ -3,13 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefteralves)
 
 <div>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=jefter20&show_icons=true&theme=radical">
-<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefter20&layout=compact&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefter20&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefter20&layout=compact&theme=radical">
 </div>
-
-
-![Jefter Alves GitHub stats]()
-![Top Langs]()
 
 ## Tecnologias que mais utilizo.
 
