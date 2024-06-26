@@ -5,8 +5,7 @@
 </div></br>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefter20&show_icons=true&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefter20&layout=compact&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefter20&show_icons=true&theme=radical"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefter20&layout=compact&theme=radical">
 </div>
 
 ## Tecnologias que mais utilizo.
