@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Jefter Alves. 👋
 
 <div>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefteralves)">
+  <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=(white)](https://www.linkedin.com/in/jefteralves)">
 </div></br>
 
 <div>
@@ -20,7 +20,10 @@
   <img align="center" alt="Jefter-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-## Sobre o que penso para minha carreira.
+## Sobre mim.
 
-"Apaixonado pelo mundo da tecnologia e seu poder transformador na vida das pessoas!
-Atualmente estou mergulhando de cabeça no desenvolvimento Web Front-End, e tenho como objetivo principal, me tornar um desenvolvedor Full Cycle. Capaz de entregar soluções completas e de alto impacto, interfaces inovadoras e experiências web incríveis, dominando todo ciclo de vida de uma aplicação."
+"Apaixonado por tecnologia e desenvolvimento de software, atualmente focado em desenvolvimento Web. 
+
+Tenho conhecimentos e desenvolvo utilizando as seguintes tecnologias: .NET, SQL Server, HTML5, CSS3, Bootstrap, dentre outras.
+
+Atualmente, estou expandindo meus conhecimentos e focado nos estudos de JavaScript, React, NodeJS. Também faço uso da Inteligência Artificial para ganho de produtividade, buscando aprimorar minhas habilidades no desenvolvimento Full Stack e explorar novas possibilidades e tecnologias no mundo da programação."
